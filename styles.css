@@ -16,6 +16,16 @@ body {
     margin: 10px 0;
 }
 
+#img-div {
+    width: 500px;
+}
+
+.img-container {
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+}
+
 .tribute-info {
     border-top: 10px solid #ce1126;
 }
