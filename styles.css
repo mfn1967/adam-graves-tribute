@@ -1,0 +1,11 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    text-align: center;
+    background-color: #0038A8;
+    color: #ffffff;
+    font-size: 18px;
+}
