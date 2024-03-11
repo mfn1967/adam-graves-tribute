@@ -1,7 +1,7 @@
 * {
     margin: 0;
     padding: 0;
-    /*border: 1px solid white; */
+   /* border: 1px solid white; */
 }
 
 body {
@@ -36,6 +36,7 @@ body {
 
 h1 {
     color: #CE1126;
+    font-size: 52px;
 }
 
 .tribute-info > ul {
@@ -47,7 +48,7 @@ h1 {
 }
 
 li {
-    padding: 5px 0;
+    padding: 5px 20px;
     list-style: none;
 }
 
