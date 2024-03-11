@@ -1,6 +1,7 @@
 * {
     margin: 0;
     padding: 0;
+    /*border: 1px solid white; */
 }
 
 body {
@@ -9,3 +10,41 @@ body {
     color: #ffffff;
     font-size: 18px;
 }
+
+#main {
+    padding: 10px 0;
+    margin: 10px 0;
+}
+
+.tribute-info {
+    border-top: 10px solid #ce1126;
+}
+
+.tribute-info > h2, .tribute-info > h3, #img-div {
+    padding: 10px 0;
+}
+
+h1 {
+    color: #CE1126;
+}
+
+.tribute-info > ul {
+    padding-bottom: 10px;
+}
+
+.tribute-info li {
+    padding-bottom: 18px;
+}
+
+li {
+    padding: 5px 0;
+    list-style: none;
+}
+
+a {
+    color: white;
+  }
+
+a:hover {
+    color: #CE1126;
+  }
